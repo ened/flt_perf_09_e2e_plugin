@@ -1,0 +1,40 @@
+PODS:
+  - e2e (0.0.1):
+    - Flutter
+  - flt_perf_09_e2e_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - path_provider (0.0.1):
+    - Flutter
+  - path_provider_macos (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - e2e (from `.symlinks/plugins/e2e/ios`)
+  - flt_perf_09_e2e_plugin (from `.symlinks/plugins/flt_perf_09_e2e_plugin/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - path_provider_macos (from `.symlinks/plugins/path_provider_macos/ios`)
+
+EXTERNAL SOURCES:
+  e2e:
+    :path: ".symlinks/plugins/e2e/ios"
+  flt_perf_09_e2e_plugin:
+    :path: ".symlinks/plugins/flt_perf_09_e2e_plugin/ios"
+  Flutter:
+    :path: Flutter
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  path_provider_macos:
+    :path: ".symlinks/plugins/path_provider_macos/ios"
+
+SPEC CHECKSUMS:
+  e2e: d0c9f8c832b4cc7ab386d0c0f0af67fe5ac0c3bd
+  flt_perf_09_e2e_plugin: c88ea8c5b3b846a0faa97c1ae8f99f0da82c34c9
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  path_provider_macos: f760a3c5b04357c380e2fddb6f9db6f3015897e0
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.1
