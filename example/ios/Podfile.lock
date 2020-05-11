@@ -30,7 +30,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   e2e: d0c9f8c832b4cc7ab386d0c0f0af67fe5ac0c3bd
-  flt_perf_09_e2e_plugin: b589b04077e8d442702d0266e638d973186e4ccf
+  flt_perf_09_e2e_plugin: c88ea8c5b3b846a0faa97c1ae8f99f0da82c34c9
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
   path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
   path_provider_macos: f760a3c5b04357c380e2fddb6f9db6f3015897e0
